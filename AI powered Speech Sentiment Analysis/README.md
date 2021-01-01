@@ -1,4 +1,4 @@
-# AI-powered-Speech-Sentiment-Analysis
+# AI powered Speech Sentiment Analysis
 
 This python program, takes input via the microphone and returns if the input was positive, negative or neutral.
 
